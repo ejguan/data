@@ -3,7 +3,7 @@
 .. currentmodule:: torchdata.datapipes.iter
 
 
-Extractor
-=========
+TarArchiveLoader
+================
 
-.. autoclass:: Extractor
+.. autoclass:: TarArchiveLoader
