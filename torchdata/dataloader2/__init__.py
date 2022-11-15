@@ -11,6 +11,7 @@ from .reading_service import (
     CheckpointableReadingServiceInterface,
     DistributedReadingService,
     MultiProcessingReadingService,
+    Prototype2MultiProcessingReadingService,
     PrototypeMultiProcessingReadingService,
     ReadingServiceInterface,
 )
@@ -23,6 +24,7 @@ __all__ = [
     "DistributedReadingService",
     "MultiProcessingReadingService",
     "PauseIteration",
+    "Prototype2MultiProcessingReadingService",
     "PrototypeMultiProcessingReadingService",
     "ReadingServiceInterface",
     "ShuffleSpec",
